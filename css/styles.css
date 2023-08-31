@@ -1,0 +1,33 @@
+
+
+ .container{
+   max-width: 1440px;
+   max-width: 90%;
+   margin:auto;
+   padding: 0 16px;
+  
+ }
+
+ header nav ul li a:hover{
+
+  color:#3e50e5;
+ }
+
+
+ header nav ul li:last-of-type a{
+
+   margin-right: 0;
+ }
+
+
+ .hero-content button:hover {
+
+  color:#3e50e5;
+  background-color: #FFF;
+  border:  1px solid #3e50e5;
+ }
+
+ 
+
+
+
